@@ -20,6 +20,10 @@ This task utilized the Elastic Stack for log analysis and security monitoring. T
 - **Log Data**: Custom sample security log in csv format
 - **Operating System**: Kali Linux was used for setup and execution
 
+<img width="1920" height="1080" alt="Screenshot From 2025-07-23 14-47-14" src="https://github.com/user-attachments/assets/2286ad92-9e6d-4f5b-84c6-fe6344a52324" />
+
+<img width="1920" height="1080" alt="Screenshot From 2025-07-23 14-08-21" src="https://github.com/user-attachments/assets/1defc00c-47d5-4908-a8e5-bd9d97d14dff" />
+
 ---
 
 This task involved implementing a complete security monitoring workflow using the Elastic Stack. The following activities were performed:
